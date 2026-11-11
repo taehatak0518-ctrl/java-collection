@@ -120,6 +120,7 @@ replay_pid*
 
 ### Windows ###
 # Windows thumbnail cache files
+
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
